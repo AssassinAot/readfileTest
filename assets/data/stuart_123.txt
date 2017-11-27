@@ -1,0 +1,4 @@
+This contains metadata for STUART
+Sample data for STUART
+11 222 323 10 23
+12 43 12 36 23 21

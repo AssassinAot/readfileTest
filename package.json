@@ -1,0 +1,21 @@
+{
+  "name": "data-transform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start" : "yarn nodemon index.js",
+    "testwatch" : "jest --watchAll",
+    "testcoverage" :"jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "dependencies": {
+    "hapi": "16",
+    "nodemon": "^1.12.1"
+  }
+}
